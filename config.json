@@ -1,0 +1,6 @@
+{
+  "_comment": "url为服务器地址，updateUrl为更新地址，portName为串口名称",
+  "url": "http://localhost:3000",
+  "updateUrl": "http://localhost:3000/update",
+  "portName": "COM3"
+}
